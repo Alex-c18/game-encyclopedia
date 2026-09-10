@@ -22,24 +22,19 @@
 
 ## 🛠 Технологический стек
 
-* **Backend:** PHP
-* **Frontend:** HTML5, CSS3, JavaScript, jQuery
+* **Framework:** .NET / Blazor Web App (Interactive Server / WASM)
+* **UI Components:** MudBlazor (Material Design)
+* **ORM:** Entity Framework Core
 * **Database:** PostgreSQL
-* **DevOps / Tools:** Docker (под вопросом), Git (GitHub)
-
+* **DevOps / Tools:** Docker, Git
 ---
 
 ## 📁 Структура репозитория
 
 ```text
 game-encyclopedia/
-├── docs/                      # Технические спецификации, диаграммы и макеты
-│   ├── diagrams/              # UML-диаграммы (Use Case, Информационная структура)
-│   └── wireframes/            # Макеты страниц (UI Wireframes)
+├── docs/                      # Технические спецификации, диаграммы и макеты[span_0](start_span)[span_0](end_span)
 ├── src/                       # Исходный код приложения
-│   ├── assets/                # Стили, скрипты (jQuery), изображения
-│   ├── config/                # Конфигурация и подключение к БД
-│   ├── controllers/           # Логика обработки запросов
-│   ├── views/                 # Шаблоны страниц
-│   └── index.php              # Точка входа в приложение
+│   ├── GameEncyclopedia/      # Основной проект Blazor (Pages, Components, MudBlazor Layouts)
+│   └── GameEncyclopedia.Data/ # EF Core контекст, модели данных и миграции
 └── README.md                  # Описание проекта
