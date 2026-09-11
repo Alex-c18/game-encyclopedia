@@ -33,7 +33,7 @@
 
 ```text
 game-encyclopedia/
-├── docs/                      # Технические спецификации, диаграммы и макеты[span_0](start_span)[span_0](end_span)
+├── docs/                      # Технические спецификации, диаграммы и макеты
 ├── src/                       # Исходный код приложения
 │   ├── GameEncyclopedia/      # Основной проект Blazor (Pages, Components, MudBlazor Layouts)
 │   └── GameEncyclopedia.Data/ # EF Core контекст, модели данных и миграции
