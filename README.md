@@ -26,7 +26,7 @@
 * **UI Components:** MudBlazor (Material Design)
 * **ORM:** Entity Framework Core
 * **Database:** PostgreSQL
-* **DevOps / Tools:** Docker, Git
+* **DevOps / Tools:** Docker (под вопросом), Git (GitHub)
 ---
 
 ## 📁 Структура репозитория
