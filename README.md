@@ -40,10 +40,10 @@
 
 ```text
 game-encyclopedia/
-├── docs/                      # Технические спецификации и отчетная документация[span_13](start_span)[span_13](end_span)
-│   ├── diagrams/              # UML-диаграммы (Use Case, Информационная структура)[span_14](start_span)[span_14](end_span)
-│   ├── wireframes/            # Макеты страниц и макеты UI[span_15](start_span)[span_15](end_span)
-│   └── lab1_report.pdf        # Отчет по лабораторной работе №1[span_16](start_span)[span_16](end_span)
+├── docs/                      # Технические спецификации и отчетная документация
+│   ├── diagrams/              # UML-диаграммы (Use Case, Информационная структура)
+│   ├── wireframes/            # Макеты страниц и макеты UI
+│   └── lab1_report.pdf        # Отчет по лабораторной работе №1
 ├── src/                       # Исходный код приложения
 │   ├── client/                # Фронтенд-приложение (React + TS + Vite + MUI)
 │   └── server/                # Серверная часть (ASP.NET Core Web API)
