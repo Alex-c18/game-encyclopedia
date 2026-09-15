@@ -32,7 +32,7 @@
 * **Backend:** C# / ASP.NET Core Web API
 * **ORM:** Entity Framework Core
 * **Database:** PostgreSQL
-* **DevOps / Tools:** Docker, Git
+* **DevOps / Tools:** Docker (под вопросом), Git
 
 ---
 
