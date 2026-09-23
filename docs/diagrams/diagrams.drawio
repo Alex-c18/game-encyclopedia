@@ -1,0 +1,374 @@
+<mxfile host="app.visio.online">
+  <diagram name="Страница-1" id="r7pKF1lUEfLk17jSVkyn">
+    <mxGraphModel dx="1202" dy="736" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" value="" vertex="1">
+          <mxGeometry height="100" width="220" x="25" y="274.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" value="" vertex="1">
+          <mxGeometry height="120" width="100" x="85" y="134.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" value="React/MUI -страницы" vertex="1">
+          <mxGeometry height="30" width="80" x="95" y="174.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" value="TypeScript" vertex="1">
+          <mxGeometry height="30" width="80" x="95" y="214.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" value="" vertex="1">
+          <mxGeometry height="70" width="200" x="35" y="294.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" value="Controllers" vertex="1">
+          <mxGeometry height="30" width="80" x="45" y="324.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" value="&lt;span style=&quot;color: rgb(31, 35, 40); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;ASP.NET Core Web API&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="145" y="324.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" value="" vertex="1">
+          <mxGeometry height="60" width="200" x="35" y="394.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" value="&lt;span style=&quot;color: rgb(31, 35, 40); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Entity Framework Core&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="45" y="414.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" value="" vertex="1">
+          <mxGeometry height="60" width="200" x="35" y="474.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" value="PostgreSQL" vertex="1">
+          <mxGeometry height="30" width="180" x="45" y="494.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=11;" value="Клиент -&amp;nbsp;&lt;div&gt;Web-браузер&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="85" y="134.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=11;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Web-сервер&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="220" x="25" y="274.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=11;" value="Kestrel" vertex="1">
+          <mxGeometry height="30" width="100" x="85" y="294.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=11;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;DAL&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="200" x="35" y="394.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=11;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;СУБД&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="200" x="35" y="474.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.343;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=11;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="124.64999999999998" y="254.03999999999996" as="sourcePoint" />
+            <mxPoint x="125.11000000000001" y="274.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=11;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="144.64999999999998" y="274.03999999999996" as="sourcePoint" />
+            <mxPoint x="144.55999999999995" y="254.03999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.343;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=11;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="125" y="374.5" as="sourcePoint" />
+            <mxPoint x="125.46000000000004" y="394.96000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=11;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="145" y="394.5" as="sourcePoint" />
+            <mxPoint x="144.91000000000008" y="374.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.343;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=11;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="125" y="454.5" as="sourcePoint" />
+            <mxPoint x="125.46000000000004" y="474.96000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=11;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="145" y="474.5" as="sourcePoint" />
+            <mxPoint x="144.91000000000008" y="454.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=11;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;HTTP&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="63" x="72" y="254.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=11;" value="программная архитектура" vertex="1">
+          <mxGeometry height="30" width="160" x="55" y="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=11;" value="информационная структура" vertex="1">
+          <mxGeometry height="30" width="160" x="425.75" y="459" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-26" edge="1" parent="1" source="FNsi-ysdb5m_HRjhgDUh-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505.75" y="539" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" value="Главная" vertex="1">
+          <mxGeometry height="30" width="80" x="465.75" y="499" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-28" edge="1" parent="1" source="FNsi-ysdb5m_HRjhgDUh-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="341.75" y="539" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" value="Вход" vertex="1">
+          <mxGeometry height="30" width="80" x="293.25" y="559" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-30" edge="1" parent="1" source="FNsi-ysdb5m_HRjhgDUh-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" target="FNsi-ysdb5m_HRjhgDUh-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" value="Поиск" vertex="1">
+          <mxGeometry height="30" width="80" x="408.25" y="559" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-32" edge="1" parent="1" source="FNsi-ysdb5m_HRjhgDUh-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" target="FNsi-ysdb5m_HRjhgDUh-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;fontStyle=0" value="Личный кабинет" vertex="1">
+          <mxGeometry height="30" width="80" x="524.25" y="559" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-34" edge="1" parent="1" source="FNsi-ysdb5m_HRjhgDUh-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="671.75" y="539" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" value="Карточка игры" vertex="1">
+          <mxGeometry height="30" width="80" x="638.25" y="559" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-36" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="341.75" y="539" as="sourcePoint" />
+            <mxPoint x="671.75" y="539" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-37" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="313.25" y="606.8199999999999" as="sourcePoint" />
+            <mxPoint x="300.75" y="606.8199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="Войти" vertex="1">
+          <mxGeometry height="10" width="54.25" x="315.75" y="599" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-39" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.144;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300.75" y="619" as="sourcePoint" />
+            <mxPoint x="300.79999999999995" y="589" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-40" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="313.25" y="627" as="sourcePoint" />
+            <mxPoint x="300.75" y="619" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="Регистрация" vertex="1">
+          <mxGeometry height="10" width="60" x="315.75" y="619" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-42" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;entryX=0.16;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;" target="FNsi-ysdb5m_HRjhgDUh-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="433.25" y="607" as="sourcePoint" />
+            <mxPoint x="420.75" y="599" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="Ввод запроса" vertex="1">
+          <mxGeometry height="10" width="60" x="435.75" y="599" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-44" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="543.25" y="606.8199999999999" as="sourcePoint" />
+            <mxPoint x="530.75" y="606.8199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="Коллекции" vertex="1">
+          <mxGeometry height="10" width="54.25" x="545.75" y="599" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-46" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.144;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="530.75" y="619" as="sourcePoint" />
+            <mxPoint x="530.8" y="589" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-47" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="543.25" y="642" as="sourcePoint" />
+            <mxPoint x="530.75" y="634" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="Оценки" vertex="1">
+          <mxGeometry height="10" width="60" x="545.75" y="634" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="Настройки" vertex="1">
+          <mxGeometry height="10" width="60" x="545.75" y="654" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-50" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530.75" y="657" />
+              <mxPoint x="530.75" y="649" />
+            </Array>
+            <mxPoint x="544.75" y="657" as="sourcePoint" />
+            <mxPoint x="530.75" y="609" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-51" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="545.75" y="629" />
+            </Array>
+            <mxPoint x="551.75" y="629" as="sourcePoint" />
+            <mxPoint x="545.75" y="609" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-52" edge="1" parent="1" style="endArrow=classicThin;html=1;rounded=0;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="545.75" y="629" as="sourcePoint" />
+            <mxPoint x="555.75" y="628.95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-53" edge="1" parent="1" style="endArrow=classicThin;html=1;rounded=0;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="545.75" y="618.8600000000001" as="sourcePoint" />
+            <mxPoint x="555.75" y="618.8600000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="..." vertex="1">
+          <mxGeometry height="10" width="34.25" x="559.62" y="609" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="..." vertex="1">
+          <mxGeometry height="10" width="34.25" x="559.62" y="619" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-56" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="658.25" y="606.8199999999999" as="sourcePoint" />
+            <mxPoint x="645.75" y="606.8199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="Медиа" vertex="1">
+          <mxGeometry height="10" width="54.25" x="660.75" y="599" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-58" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.144;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="645.75" y="619" as="sourcePoint" />
+            <mxPoint x="645.8" y="589" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-59" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="658.25" y="625.5" as="sourcePoint" />
+            <mxPoint x="645.75" y="617.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="Системные рек-ции" vertex="1">
+          <mxGeometry height="10" width="91" x="660.75" y="619" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="Ссылки на магазин" vertex="1">
+          <mxGeometry height="10" width="91" x="660.75" y="637.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-62" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="645.75" y="645" />
+            </Array>
+            <mxPoint x="659.75" y="645.5" as="sourcePoint" />
+            <mxPoint x="645.75" y="597.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-63" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="658.25" y="662" as="sourcePoint" />
+            <mxPoint x="645.75" y="639" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-64" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="658.25" y="678" as="sourcePoint" />
+            <mxPoint x="645.75" y="655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="Оценки и отзывы" vertex="1">
+          <mxGeometry height="10" width="91" x="660.75" y="654" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="Похожее" vertex="1">
+          <mxGeometry height="10" width="91" x="660.75" y="669" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=11;" value="uml-диаграмма" vertex="1">
+          <mxGeometry height="30" width="160" x="415.5" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-68" edge="1" parent="1" source="FNsi-ysdb5m_HRjhgDUh-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FNsi-ysdb5m_HRjhgDUh-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-69" edge="1" parent="1" source="FNsi-ysdb5m_HRjhgDUh-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FNsi-ysdb5m_HRjhgDUh-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-70" edge="1" parent="1" source="FNsi-ysdb5m_HRjhgDUh-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FNsi-ysdb5m_HRjhgDUh-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-71" edge="1" parent="1" source="FNsi-ysdb5m_HRjhgDUh-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="FNsi-ysdb5m_HRjhgDUh-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-72" edge="1" parent="1" source="FNsi-ysdb5m_HRjhgDUh-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FNsi-ysdb5m_HRjhgDUh-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-73" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Times New Roman;fontSize=10;fontColor=light-dark(#e72323, #ededed);" value="Гость" vertex="1">
+          <mxGeometry height="50" width="16" x="528.5" y="207" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-74" edge="1" parent="1" source="FNsi-ysdb5m_HRjhgDUh-77" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FNsi-ysdb5m_HRjhgDUh-87" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-75" edge="1" parent="1" source="FNsi-ysdb5m_HRjhgDUh-77" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="FNsi-ysdb5m_HRjhgDUh-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-76" edge="1" parent="1" source="FNsi-ysdb5m_HRjhgDUh-77" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="FNsi-ysdb5m_HRjhgDUh-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-77" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Times New Roman;fontSize=10;fontColor=#E72323;" value="Авторизованный&lt;div&gt;пользователь&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="16" x="489.5" y="315.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-78" edge="1" parent="1" source="FNsi-ysdb5m_HRjhgDUh-80" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="FNsi-ysdb5m_HRjhgDUh-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-79" edge="1" parent="1" source="FNsi-ysdb5m_HRjhgDUh-80" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="FNsi-ysdb5m_HRjhgDUh-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-80" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Times New Roman;fontSize=10;fontColor=#E72323;" value="Администратор" vertex="1">
+          <mxGeometry height="55.5" width="18" x="444.5" y="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-81" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" value="Управлять каталогом" vertex="1">
+          <mxGeometry height="50" width="125" x="304.5" y="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-82" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" value="Модерировать отзывы" vertex="1">
+          <mxGeometry height="50" width="125" x="269" y="157" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-83" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" value="Просмотр каталога игр" vertex="1">
+          <mxGeometry height="50" width="125" x="547.5" y="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-84" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" value="Зарегистрироваться" vertex="1">
+          <mxGeometry height="50" width="125" x="643.5" y="315.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-85" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" value="Публикация&lt;div&gt;отзывов и оценок&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="125" x="278.5" y="305.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-86" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" value="Посмотреть карточку игры" vertex="1">
+          <mxGeometry height="50" width="125" x="677.5" y="192.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-87" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" value="Управлять закладками и папками" vertex="1">
+          <mxGeometry height="50" width="125" x="304.5" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-88" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" value="Поиск" vertex="1">
+          <mxGeometry height="50" width="125" x="658" y="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-89" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" value="Просмотр отзывов и оценок" vertex="1">
+          <mxGeometry height="50" width="125" x="666.8699999999999" y="255.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-90" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" value="Управление персональным профилем" vertex="1">
+          <mxGeometry height="50" width="125" x="280.5" y="365.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-91" edge="1" parent="1" source="FNsi-ysdb5m_HRjhgDUh-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=8 8;endArrow=block;endFill=0;" target="FNsi-ysdb5m_HRjhgDUh-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNsi-ysdb5m_HRjhgDUh-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=10;" value="наследуется" vertex="1">
+          <mxGeometry height="30" width="60" x="465.5" y="273" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
